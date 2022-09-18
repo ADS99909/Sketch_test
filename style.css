@@ -1,0 +1,15 @@
+body{
+    background-color:fuchsia;
+}
+.test_score{
+    font-size: 25px;
+    margin-left: 25px;
+}
+.timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 25px;
+}
+.sketch_test{
+    color:red;
+}
